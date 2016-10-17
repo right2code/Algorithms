@@ -1,4 +1,4 @@
-
+// Program to print the longest palindrome substring in a given string. 
 public class LongestPalSubstring 
 {
 	public static boolean checkPal(String str)
