@@ -1,4 +1,3 @@
-// Solution to hackerrank question: https://www.hackerrank.com/challenges/bomber-man
 import java.io.*;
 import java.util.*;
 import java.text.*;
